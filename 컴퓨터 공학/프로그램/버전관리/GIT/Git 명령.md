@@ -44,5 +44,11 @@ git merge --squach
 # git rebase
 브랜치가 참조하는 Commit 기준점을 변경하는 명령어
 
-# log
+# git log
 git의 히스토리를 확인 가능하다.
+
+# origin 설정
+```shell
+git remote add origin [url]
+```
+
