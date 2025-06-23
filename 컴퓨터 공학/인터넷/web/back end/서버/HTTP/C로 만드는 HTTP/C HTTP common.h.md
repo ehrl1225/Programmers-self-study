@@ -48,3 +48,4 @@ typedef int Socket;
 #endif // COMMON_H
 ```
 소켓 값이 int이지만 구분을 위해 Socket이라고 작성했습니다.
+리눅스 전용으로 만들어져 있어 windows에는 없는 라이브러리가 있습니다.

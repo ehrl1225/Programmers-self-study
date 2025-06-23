@@ -34,3 +34,8 @@ const plus = (a, b) => a+b;
 이렇게 줄이는거 가능
 
 # [[Javascript stream]]
+
+# setTimeout(func)
+급한 일을 먼저 실행한 후 매개변수의 함수를 실행한다.
+따라서 HTML 중간에 넣어두면 HTML을 다 load하고 실행한다.
+

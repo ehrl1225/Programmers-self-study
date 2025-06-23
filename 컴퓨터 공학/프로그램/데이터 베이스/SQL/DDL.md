@@ -21,7 +21,10 @@ alter table article add column id int first;
 테이블을 없앨 때 사용한다.
 
 # TRUNCATE
+테이블의 모든 데이터를 날리고 싶을 때 사용한다.
+
 # RENAME
+
 
 # SHOW
 
