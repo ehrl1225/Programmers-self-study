@@ -4,7 +4,7 @@
 System.out.println(String text);
 를 통해 출력함
 
-# [[JAVA 연산자]] 
+# [[Java 연산자]] 
 
 # 기본형 변수
 - boolean
@@ -22,4 +22,4 @@ String은 참조형 변수
 
 ## [[Java 래퍼와 비래퍼]]
 
-# [[JAVA 클래스]] 
+# [[Java 클래스]] 

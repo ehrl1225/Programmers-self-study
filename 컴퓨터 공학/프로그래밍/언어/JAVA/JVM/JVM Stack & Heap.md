@@ -1,5 +1,5 @@
 
-# JVM
+# [[JVM, JRE, JDK#JVM|JVM]]
 컴파일 플랫폼과 타겟 플랫폼이 다르면 프로그램이 동작하지 않음
 자바 바이트코드는 타겟 플랫폼에 상관 없이 JVM 위에서 동작한다.
 JVM은 타겟 플랫폼에 의존한다.
@@ -11,15 +11,17 @@ JVM은 타겟 플랫폼에 의존한다.
 ## 실행되기까지 과정
 Lexical Analyzer, Syntax Analyzer, Sementic Analyzer, Intermediate Code Generator, Code Optimizer, Code Generator
 
-# JVM 내부
+# [[JVM, JRE, JDK#JVM|JVM]] 내부
 ## Runtime Data Areas
 Method area와 Heap은 모든 [[스레드]]가 공유한다.
 
 ### Method Area
 클래스 정보, 정적 데이터가 저장된다.
+[[메모리 구조]]의 [[메모리 구조#데이터 영역|데이터 영역]]에 해당한다.
 
 ### Heap Area
 런타임 때 생성한 모든 객체를 저장한다.
+[[메모리 구조]]의 [[메모리 구조#힙 영역|힙 영역]]에 해당한다.
 
 ## Per Thread
 [[스레드]] 마다 존재하는 공간
@@ -31,7 +33,7 @@ Method area와 Heap은 모든 [[스레드]]가 공유한다.
 [[스레드]] 별 1개씩 존재한다.
 스택 프레임은 메서드가 호출될 때마다 생성되고
 메서드 실행이 끝나면 스택 프레임은 pop되어 스택에서 제거된다.
-
+[[메모리 구조]]의 [[메모리 구조#스택 영역|스택 영역]]에 해당한다.
 #### Stack Frame
 ##### Local Variable array
 지역 변수가 저장된다.

@@ -36,73 +36,49 @@
             }
           },
           {
-            "id": "573ef86343259aaf",
+            "id": "d76bdea14a44639a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터 공학/인터넷/web/back end/웹 프레임워크/스프링 부트/스프링.md",
+                "file": "컴퓨터 공학/컴퓨터 구조/메모리 구조.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "스프링"
+              "title": "메모리 구조"
             }
           },
           {
-            "id": "fc5a9325bbf839b0",
+            "id": "519869c4f0879eab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터 공학/인터넷/web/back end/웹 프레임워크/스프링 부트/어노테이션/스프링 부트 프록시 경유 빈.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "스프링 부트 프록시 경유 빈"
-            }
-          },
-          {
-            "id": "88e109e94f055c18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "컴퓨터 공학/운영체제/종류/리눅스/리눅스.md",
+                "file": "컴퓨터 공학/프로그래밍/방법론/객체지향 프로그래밍/객체와 클래스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리눅스"
+              "title": "객체와 클래스"
             }
           },
           {
-            "id": "7e41182257cd95a6",
+            "id": "90e8adf49c30f60d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터 공학/프로그래밍/언어/어셈블리/어셈블리어.md",
+                "file": "컴퓨터 공학/프로그래밍/알고리즘/시간 복잡도.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "어셈블리어"
+              "title": "시간 복잡도"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:mac",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -260,44 +236,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e41182257cd95a6",
+  "active": "90e8adf49c30f60d",
   "lastOpenFiles": [
-    "컴퓨터 공학/프로그래밍/언어/어셈블리/CISC/X86 어셈블리.md",
+    "컴퓨터 공학/프로그래밍/언어/JAVA/JVM/JVM Stack & Heap.md",
+    "컴퓨터 공학/프로그래밍/언어/C/C Struct.md",
+    "컴퓨터 공학/컴퓨터 구조/메모리 구조.md",
+    "컴퓨터 공학/프로그래밍/방법론/객체지향 프로그래밍/객체와 클래스.md",
+    "컴퓨터 공학/프로그래밍/언어/JAVA/JVM/JVM, JRE, JDK.md",
+    "컴퓨터 공학/프로그래밍/언어/JAVA/Java.md",
+    "컴퓨터 공학/컴퓨터 구조/컴퓨터 구조.md",
+    "컴퓨터 공학/프로그래밍/언어/Kotlin/Kotlin.md",
+    "컴퓨터 공학/프로그래밍/언어/Javascript/TypeScript.md",
+    "컴퓨터 공학/프로그래밍/언어/JAVA/JVM",
+    "컴퓨터 공학/프로그래밍/언어/Python/Python.md",
+    "컴퓨터 공학/프로그래밍/언어/JAVA/JAVA 문법/Java 예외처리.md",
+    "컴퓨터 공학/프로그래밍/언어/Dart/Dart.md",
+    "컴퓨터 공학/프로그래밍/언어/C#/C-Sharp.md",
+    "컴퓨터 공학/프로그래밍/언어/C++/C++.md",
+    "컴퓨터 공학/프로그래밍/언어/C/C.md",
     "컴퓨터 공학/프로그래밍/언어/어셈블리/어셈블리어.md",
     "컴퓨터 공학/프로그래밍/언어/어셈블리/RISC/ARM 어셈블리.md",
+    "컴퓨터 공학/프로그래밍/언어/C++/C++ template.md",
     "컴퓨터 공학/프로그래밍/언어/어셈블리/RISC/RISC-V 어셈블리.md",
-    "컴퓨터 공학/프로그래밍/언어/어셈블리.md",
+    "컴퓨터 공학/프로그래밍/언어/어셈블리/CISC/X86 어셈블리.md",
+    "컴퓨터 공학/프로그래밍/프로그래밍 언어론/컴파일러 이론/부트 스트래핑.md",
+    "컴퓨터 공학/프로그래밍/언어/JAVA/JAVA 문법/Java Record.md",
+    "컴퓨터 공학/프로그래밍/언어/JAVA/JAVA 문법/Java 클래스.md",
+    "컴퓨터 공학/프로그래밍/언어/JAVA/JAVA 문법/Java 연산자.md",
+    "컴퓨터 공학/프로그래밍/언어/JAVA/JAVA 문법/Java 상속.md",
+    "컴퓨터 공학/인터넷/web/back end/웹 프레임워크/스프링 부트/스프링부트 _method 파라미터.md",
     "컴퓨터 공학/프로그래밍/언어/어셈블리/RISC",
     "컴퓨터 공학/프로그래밍/언어/어셈블리/CISC",
     "컴퓨터 공학/프로그래밍/언어/어셈블리",
-    "컴퓨터 공학/운영체제/스레드.md",
-    "컴퓨터 공학/프로그래밍/방법론/객체지향 프로그래밍/디자인패턴/Singletone Pattern.md",
-    "컴퓨터 공학/운영체제/종류/리눅스/리눅스.md",
-    "컴퓨터 공학/프로그래밍/오픈소스.md",
-    "컴퓨터 공학/프로그램/SSH/FTP.md",
-    "컴퓨터 공학/인터넷/인터넷/소켓통신/TCP IP 소켓통신.md",
-    "컴퓨터 공학/인터넷/인터넷/DNS.md",
-    "컴퓨터 공학/인터넷/인터넷/인터넷과 웹의 역사.md",
-    "컴퓨터 공학/인터넷/인터넷/웹과 인터넷 개념.md",
-    "컴퓨터 공학/프로그램/SSH/SSH.md",
-    "컴퓨터 공학/프로그램/SSH/SFTP.md",
-    "컴퓨터 공학/운영체제/종류/리눅스/리눅스 쉘.md",
-    "컴퓨터 공학/운영체제/종류/윈도우/윈도우.md",
     "컴퓨터 공학/프로그램/SSH",
-    "컴퓨터 공학/운영체제/종류/윈도우/WSL2.md",
-    "컴퓨터 공학/프로그래밍/언어/C++/C++ template.md",
-    "컴퓨터 공학/프로그래밍/언어/C++/C++.md",
-    "컴퓨터 공학/프로그래밍/언어/C/C.md",
-    "컴퓨터 공학/프로그래밍/언어/Python/Python.md",
-    "컴퓨터 공학/프로그래밍/언어/Rust/Rust.md",
-    "컴퓨터 공학/프로그램/버전관리/GIT/GIT.md",
     "컴퓨터 공학/프로그래밍/언어/Rust",
-    "컴퓨터 공학/프로그램/버전관리/VCS.md",
     "컴퓨터 공학/인터넷/web/back end/웹 프레임워크/스프링 부트/어노테이션",
     "컴퓨터 공학/프로그래밍/언어/JAVA/JAVA 라이브러리",
     "컴퓨터 공학/프로그래밍/언어/JAVA/JAVA 문법",
     "컴퓨터 공학/컴퓨터 구조/디지털 논리 회로/전가산기",
-    "컴퓨터 공학/컴퓨터 구조/디지털 논리 회로/반도체/전자",
     "컴퓨터 구조.canvas",
     "Untitled.canvas"
   ]

@@ -11,4 +11,4 @@
 [[Python]]에서 사용하는 List다.
 
 # ArrayList
-[[JAVA]]에서 사용하는 List다.
+[[Java]]에서 사용하는 List다.
