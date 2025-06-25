@@ -1,1 +1,5 @@
-useState, useRef와 같이 만들 수 있는데
+useState, useRef와 같이 만들 수 있는데 
+
+기본 훅을 사용하는 코드를 분리시키려고 할 때 사용한다.
+
+use를 함수명 앞부분에 작성하여 React가 이 함수가 Hook이라는 것을 인식하게 한다.
