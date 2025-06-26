@@ -1,0 +1,27 @@
+
+함수를 함수로 감싸서 실행하기 위한 방법이다.
+간단하게 예시를 보여주자면
+
+```python
+import time
+def timer(func):
+	count = 0
+	def inner(*args, **kwargs):
+		nonlocal count
+		start = time.time()
+		result = func(*args, **kwargs)
+		elapsed_time = time.time() - start
+		print(f"[{count}] elapsed time : {elapsed_time:.02f}")
+		count+=1
+		return result
+	return inner
+
+@timer
+def test():
+	print("test")
+
+test()
+```
+
+이런식으로 함수가 실행하기 전, 함수가 실행 한 후에 기능을 더할 수도 있고
+timer 함수에 변수를 둬서 함수를 몇 번 실행시키냐에 따라 출력값이 다르게 할 수도 있다.
