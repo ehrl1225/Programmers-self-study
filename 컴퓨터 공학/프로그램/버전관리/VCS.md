@@ -36,4 +36,4 @@
 # 예시
 - BitKeeper
 - Subversion, SVN
-- [[GIT]]
+- [[Git]]

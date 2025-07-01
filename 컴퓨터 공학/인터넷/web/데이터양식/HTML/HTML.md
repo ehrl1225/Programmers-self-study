@@ -1,8 +1,7 @@
-데이터를 주고 받을 때 사용하는 마크업 언어다.
+데이터를 주고 받을 때 사용하는 [[Markup Language|마크업]] 언어다.
 Hyper Text Markup Language로
 링크를 통해 문서를 이동할 수 있다.
 hyper text가 링크가 달려있는 Text다.
-[[Markup Language]]이다.
 
 # [[HTML 태그]]
 
