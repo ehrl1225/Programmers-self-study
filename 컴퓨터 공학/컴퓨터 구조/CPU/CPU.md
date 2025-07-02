@@ -12,3 +12,6 @@ Control가 있다.
 
 
 # 논리 연산
+
+# 작동 원리
+[시각적으로 볼 수 있다.](https://youtu.be/Fg00LN30Ezg?si=SxKc6ERL7A-t1q-b)
