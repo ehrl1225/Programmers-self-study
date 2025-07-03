@@ -45,3 +45,4 @@ export type PostDtoWithContent =  "content" & PostDto
 type과 같이 사용가능한데 상속도 가능하다.
 그래서 중복된 코드를 줄일 수 있다.
 
+# returntype

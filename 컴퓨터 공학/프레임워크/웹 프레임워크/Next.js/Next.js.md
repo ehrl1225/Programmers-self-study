@@ -28,3 +28,9 @@ npx create-next-app@latest
 | 이벤트 핸들러   | 불가능             | onClick, onChange 등 사용 가능   |
 | 선언 방법     | 기본값             | 파일 최상단에 `"use client";` 추가  |
 | 적합한 경우    | 정적 콘텐츠, SEO 중요  | 사용자 인터랙션이 필요한 컴포넌트          |
+
+# 시작
+```shell
+npm run dev
+```
+로 실행이 가능하다.

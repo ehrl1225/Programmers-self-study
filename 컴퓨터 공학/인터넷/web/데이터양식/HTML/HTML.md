@@ -5,6 +5,7 @@ hyper text가 링크가 달려있는 Text다.
 
 # [[HTML 태그]]
 
+
 # head
 각종 설정을 놓는 곳이다. 
 여기서 [[CSS]]와 [[Javascript]]를 연결한다.
