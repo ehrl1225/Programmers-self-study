@@ -18,7 +18,10 @@ public:
 
 이런 식으로 가능하고
 ```C++
+#include <iostream>
+
 int main(){
-	
+	Money money = Money(100);
+	std::cout << money() << std::endl;
 }
 ```
