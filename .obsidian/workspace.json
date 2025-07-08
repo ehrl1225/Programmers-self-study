@@ -36,35 +36,21 @@
             }
           },
           {
-            "id": "d7717575c0ba264f",
+            "id": "b3ede72a0defba99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터 공학/운영체제/1000줄 짜리 OS를 만들어보자.md",
+                "file": "컴퓨터 공학/프로그래밍/프로그래밍 언어론/에러/예외 처리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1000줄 짜리 OS를 만들어보자"
-            }
-          },
-          {
-            "id": "1399727893977b4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "컴퓨터 공학/프로그램/데이터 베이스/DB/Transaction isolation level.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transaction isolation level"
+              "title": "예외 처리"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스프링.md",
+                "file": "컴퓨터 공학/프로그래밍/프로그래밍 언어론/에러/예외 처리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 스프링"
+              "title": "Backlinks for 예외 처리"
             }
           },
           {
@@ -156,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터 공학/프로그램/데이터 베이스/DB/DB 테이블 설계 문제.md",
+                "file": "컴퓨터 공학/프로그래밍/프로그래밍 언어론/에러/예외 처리.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DB 테이블 설계 문제"
+              "title": "Outgoing links from 예외 처리"
             }
           },
           {
@@ -224,45 +210,45 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1399727893977b4c",
+  "active": "17eef95e2e66b14e",
   "lastOpenFiles": [
-    "컴퓨터 공학/프로그램/데이터 베이스/DB/MVCC.md",
-    "컴퓨터 공학/프로그램/데이터 베이스/DB/Transaction isolation level.md",
+    "컴퓨터 공학/프로그래밍/프로그래밍 언어론/에러/에러.md",
+    "컴퓨터 공학/프로그래밍/프로그래밍 언어론/컴파일 언어와 인터프리터 언어/컴파일 언어와 인터프리터 언어.md",
+    "컴퓨터 공학/프로그래밍/프로그래밍 언어론/컴파일 언어와 인터프리터 언어/컴파일 언어.md",
+    "컴퓨터 공학/프로그래밍/프로그래밍 언어론/컴파일 언어와 인터프리터 언어/인터프리터 언어.md",
+    "컴퓨터 공학/프로그래밍/프로그래밍 언어론/슈가코드.md",
+    "컴퓨터 공학/프로그래밍/프로그래밍 언어론/재귀 함수.md",
+    "컴퓨터 공학/프로그래밍/프로그래밍 언어론/생명주기",
+    "컴퓨터 공학/프로그래밍/프로그래밍 언어론/변수",
     "컴퓨터 공학/수학/이산수학/재귀함수.md",
-    "컴퓨터 공학/수학/정수론.md",
-    "컴퓨터 공학/수학/카오스 이론.md",
-    "컴퓨터 공학/보안/API 키 저장.md",
-    "컴퓨터 공학/보안/보안.md",
-    "컴퓨터 공학/보안/해킹/SQL injection.md",
-    "컴퓨터 공학/보안/해킹",
-    "컴퓨터 공학/보안/해킹/XSS 공격.md",
-    "컴퓨터 공학/운영체제/1000줄 짜리 OS를 만들어보자.md",
-    "컴퓨터 공학/운영체제/종류/리눅스/리눅스 명령어.md",
-    "컴퓨터 공학/운영체제/종류/리눅스/리눅스 쉘.md",
-    "컴퓨터 공학/운영체제/종류/리눅스/리눅스.md",
-    "컴퓨터 공학/운영체제/종류/윈도우/WSL2.md",
-    "컴퓨터 공학/운영체제/종류/윈도우/윈도우.md",
-    "컴퓨터 공학/중요한 인물/리누스 토발즈.md",
-    "컴퓨터 공학/중요한 인물/빌 게이츠.md",
-    "컴퓨터 공학/중요한 인물/앨런 튜링.md",
-    "컴퓨터 공학/중요한 인물/팀 버너스리.md",
-    "컴퓨터 공학/운영체제/부팅.md",
-    "컴퓨터 공학/프로그래밍/알고리즘/해시.md",
     "컴퓨터 공학/수학/이산수학/이산수학.md",
-    "컴퓨터 공학/프로그래밍/자료 구조/Graph.md",
-    "컴퓨터 공학/프로그래밍/자료 구조/Array.md",
+    "컴퓨터 공학/보안/JWT.md",
+    "컴퓨터 공학/보안/보안.md",
+    "컴퓨터 공학/보안/Access Token.md",
+    "컴퓨터 공학/프로그래밍/알고리즘/암호화/해시 암호화.md",
+    "컴퓨터 공학/프로그래밍/언어/Java 계열/Kotlin/Kotlin 변수.md",
+    "컴퓨터 공학/프로그래밍/언어/Java 계열/Kotlin/Kotlin.md",
+    "컴퓨터 공학/프로그래밍/언어/인터프리터 언어/Dart/Dart 변수.md",
+    "컴퓨터 공학/프로그래밍/언어/인터프리터 언어/Dart/Dart.md",
+    "컴퓨터 공학/프로그래밍/언어/인터프리터 언어/Dart/Dart 비동기.md",
+    "컴퓨터 공학/프로그래밍/언어/인터프리터 언어/Javascript/TypeScript.md",
+    "컴퓨터 공학/프로그래밍/언어/인터프리터 언어/Python/Python 라이브러리/openCV.md",
+    "컴퓨터 공학/프로그래밍/언어/인터프리터 언어/Python/Python 라이브러리/PyQt.md",
+    "컴퓨터 공학/프로그래밍/언어/인터프리터 언어/Python/Python 라이브러리/sklearn.md",
+    "컴퓨터 공학/프로그래밍/언어/인터프리터 언어/Python/Python 라이브러리/Tensorflow.md",
+    "컴퓨터 공학/프로그래밍/언어/인터프리터 언어/Python/Python 라이브러리/numpy.md",
+    "컴퓨터 공학/프로그래밍/언어/인터프리터 언어/Python/Python 라이브러리/Untitled",
+    "컴퓨터 공학/프로그래밍/언어/인터프리터 언어/Python/Python 라이브러리/numpy",
     "컴퓨터 공학/프로그래밍/언어/Rust/Rust.md",
-    "컴퓨터 공학/프로그래밍/언어/C 계열/C++/C++ class.md",
+    "컴퓨터 공학/프로그래밍/언어/C 계열/C/C 하드웨어 관련 키워드.md",
+    "컴퓨터 공학/프로그래밍/언어/C 계열/C/C.md",
+    "컴퓨터 공학/보안/해킹",
     "컴퓨터 공학/프레임워크/웹 프레임워크/스프링 부트/레이어드 아키텍쳐",
     "컴퓨터 공학/중요한 인물",
     "컴퓨터 공학/UI",
     "컴퓨터 공학/운영체제/프로세스/스레드/스레드 동기화",
     "컴퓨터 구조.canvas",
     "컴퓨터 공학/컴퓨터 견적/CPU/Untitled",
-    "컴퓨터 공학/컴퓨터 조립/메모리/보조기억장치",
-    "컴퓨터 공학/컴퓨터 조립/메모리/주기억장치",
-    "컴퓨터 공학/컴퓨터 조립/메모리",
-    "컴퓨터 공학/컴퓨터 조립/GPU",
     "Untitled.canvas"
   ]
 }
