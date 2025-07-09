@@ -95,3 +95,6 @@ def add(a, b):
 result = add(3, 5)
 print(result)  # 8
 ```
+
+# 출처
+Gemini-CLI

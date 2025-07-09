@@ -50,3 +50,26 @@ def test():
 test()
 ```
 이런식으로 매개변수를 넣을 수도 있다.
+
+```python
+def test1(func):
+    print("test1")
+    def wrapper():
+        return func()
+    return wrapper
+
+def test2(func):
+    print("test2")
+    def wrapper():
+        return func()
+    return wrapper
+
+@test1
+@test2
+def test3():
+    print("test3")
+```
+실행할 경우 어떤 값이 발생할까?
+> test2
+> test1
+

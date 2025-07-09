@@ -16,7 +16,14 @@ size에 10을 넣는 것을 시키기 위해서 상당히 복잡하게 보인다
 ```python
 arr:list[int] = [i for i in range(10)]
 ```
+엄청 간단해졌다.
 
+짝수를 없애고 싶다면
+
+```python
+arr:list[int] = [i for i in range(10) if i%2!=0]
+```
+이런식으로 필터링도 가능하다.
 
 # 출처
 [링크](https://shoark7.github.io/programming/python/about-list-comprehension-python)
