@@ -34,3 +34,7 @@ npx create-next-app@latest
 npm run dev
 ```
 로 실행이 가능하다.
+
+# 주의 사항
+가능하면 서버 컴포넌트를 사용하지 말것
+가능하면 순수 react로 구현하는 것을 추천함

@@ -38,7 +38,7 @@ Application State
 - ## Delete
 를 의미한다.
 
-# [[HTTP]] 규약
+# [[컴퓨터 공학/인터넷/web/back end/서버/HTTP/HTTP]] 규약
 get, delete, post, put, patch를 사용하는데
 post, put, patch는 body가 있어서 데이터를 더 많이 그리고 감춰서 보낼 수 있다.
 post로 CRUD를 만들 수 있지만 [[REST  API]]는 다 사용한다.
