@@ -25,3 +25,4 @@ int main(){
 	std::cout << money() << std::endl;
 }
 ```
+이렇게 사용한다.

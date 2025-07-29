@@ -4,7 +4,8 @@
 만들어낸 언어다.
 그러니까 메모리는 어디에서 해제될지 컴파일 타임에 알게 된다.
 
-# [Rust 문서 링크](https://doc.rust-kr.org/foreword.html)
+# [Rust github 링크](https://github.com/rust-kr/doc.rust-kr.org?tab=readme-ov-file)
+
 
 # 웹 개발
 러스트로도 웹개발이 가능하다.
