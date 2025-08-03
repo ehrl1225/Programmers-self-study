@@ -57,3 +57,4 @@ function text(){
 
 # [[React 변수]]
 
+# [[StrictMode]]
