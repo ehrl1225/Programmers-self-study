@@ -7,6 +7,7 @@ React 컴포넌트를 통한 클라이언트 기능과 API 기능 및 서버 컴
 ```bash
 npx create-next-app@latest
 ```
+#next-js-실행
 
 # link
 
