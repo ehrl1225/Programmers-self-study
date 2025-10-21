@@ -32,25 +32,41 @@
               "state": {},
               "pinned": true,
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "Graph view"
             }
           },
           {
             "id": "1bc8d27acd2be873",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "글 쓰기/네컷 프로젝트.md",
+                "file": "프로그래머스/프로젝트/최종 프로젝트/공지.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "네컷 프로젝트"
+              "title": "공지"
+            }
+          },
+          {
+            "id": "bb23ead9dc838745",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "글 쓰기/군대에서 제작한 소소한 작품들.md",
+                "bFile": "글 쓰기/군대에서 제작한 소소한 작품들.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 군대에서 제작한 소소한 작품들"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#next-js-실행",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +116,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           }
         ]
@@ -123,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래머스/프로젝트/프로젝트 1.md",
+                "file": "프로그래머스/프로젝트/최종 프로젝트/서비스 명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 프로젝트 1"
+              "title": "Backlinks for 서비스 명"
             }
           },
           {
@@ -210,47 +226,48 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "1bc8d27acd2be873",
+  "active": "bb23ead9dc838745",
   "lastOpenFiles": [
-    "글 쓰기/Secured Network.md",
-    "독서/모던 C++ 입문/문제 풀이/3챕터.md",
-    "독서/모던 C++ 입문/문제 풀이/5챕터.md",
-    "독서/모던 C++ 입문/문제 풀이/4챕터.md",
-    "컴퓨터 공학/임베디드/아두이노.md",
-    "컴퓨터 공학/보안/Access Token.md",
-    "글 쓰기/네컷 프로젝트.md",
-    "독서/모던 C++ 입문/모던 C++ 입문.md",
-    "강의/도커.md",
-    "컴퓨터 공학/임베디드/라즈베리파이.md",
+    "프로그래머스/특강/실무자 특강.md",
+    "프로그래머스/특강/올바르게 백엔드 내 지식으로 만들기.md",
+    "프로그래머스/특강/개발자 채용 동향과 2025 하반기 취업 전략 수립.md",
+    "프로그래머스/프로젝트/최종 프로젝트/취업전략.md",
+    "프로그래머스/강의 기억해야할 것.md",
+    "프로그래머스/프로젝트/프로젝트 3/프로젝트 3.md",
+    "프로그래머스/프로젝트/프로젝트 3/프로젝트3 발표.md",
+    "프로그래머스/프로젝트/최종 프로젝트/PPT 내용.md",
+    "프로그래머스/프로젝트/최종 프로젝트/팀 매칭.md",
+    "프로그래머스/프로젝트/최종 프로젝트/최종 프로젝트.md",
+    "프로그래머스/프로젝트/최종 프로젝트/서비스 명.md",
+    "프로그래머스/프로젝트/최종 프로젝트/공지.md",
+    "프로그래머스/fact & lesson/프로그래머스 최종 프로젝트.md",
+    "프로그래머스/취업/원티드/기업 찾기2.md",
+    "프로그래머스/fact & lesson/프로그래머스 2차 프로젝트.md",
+    "프로그래머스/특강/aws 특강.md",
+    "프로그래머스/프로젝트/최종 프로젝트/무제.md",
+    "유튜브 영상/흑묘테크 Networks  SSL, TLS, HTTPS (유의석).md",
+    "프로그래머스/취업/취업지원 서비스.md",
+    "프로그래머스/프로젝트/최종 프로젝트/문제/User.java 파일의 저주.md",
+    "프로그래머스/프로젝트/최종 프로젝트/문제/Admin이 채팅방에 접속을 못함.md",
+    "프로그래머스/프로젝트/최종 프로젝트/문제/실수로 yml 파일에 들어간 api key.md",
+    "프로그래머스/프로젝트/최종 프로젝트/설명/할로우 나이트 실크송 리뷰.md",
+    "프로그래머스/프로젝트/최종 프로젝트/설명/소켓 통신.md",
+    "컴퓨터 공학/프레임워크/웹 프레임워크/스프링 부트/JPA/QueryDSL/서브쿼리.md",
+    "컴퓨터 공학/프레임워크/웹 프레임워크/스프링 부트/JPA/QueryDSL/QueryDSL에서 Projections를 사용하여 DTO 생성하기.md",
+    "프로그래머스/특강/img/스펙.png",
+    "프로그래머스/프로젝트/최종 프로젝트/문제",
+    "컴퓨터 공학/프레임워크/웹 프레임워크/스프링 부트/웹소켓",
+    "프로그래머스/프로젝트/최종 프로젝트/설명",
+    "프로그래머스/프로젝트/최종 프로젝트",
+    "컴퓨터 공학/서비스",
+    "프로그래머스/프로젝트/프로젝트 3",
+    "컴퓨터 공학/프로그램/버전관리/Git/origin/Github Actions",
+    "프로그래머스/취업/원티드",
     "컴퓨터 공학/프레임워크/웹 프레임워크/스프링 부트/JPA/QueryDSL",
     "컴퓨터 공학/임베디드",
     "독서/모던 C++ 입문/문제 풀이/img/2.png",
-    "독서/모던 C++ 입문/문제 풀이/img",
     "독서/모던 C++ 입문/문제 풀이/img/1.png",
-    "컴퓨터 공학/프로그램/IDE/JetBrains/IntelliJ 설정.md",
-    "컴퓨터 공학/인터넷/web/front end/react/JSX.md",
-    "컴퓨터 공학/프로그래밍/언어/Java 계열/Java/Java 문법/Java 연산자.md",
-    "컴퓨터 공학/프로그래밍/언어/Java 계열/Java/Java 라이브러리/Java 스트림.md",
-    "컴퓨터 공학/프로그램/데이터 베이스/DBMS/관계형 데이터베이스/MySql/MySql 팁.md",
-    "컴퓨터 공학/프로그래밍/언어/Java 계열/Java/Java 라이브러리/Java Collection.md",
-    "컴퓨터 공학/운영체제/가상화/docker/WSL2에 mariaDB.md",
-    "컴퓨터 공학/기타/윈도우 단축키.md",
-    "컴퓨터 공학/프로그래밍/언어/인터프리터 언어/Javascript/Javascript stream.md",
-    "컴퓨터 공학/프로그래밍/언어/Java 계열/Java/Java 문법/Java 상속.md",
-    "컴퓨터 공학/기타/맥 단축키.md",
-    "컴퓨터 공학/인터넷/DNS.md",
-    "컴퓨터 공학/인터넷/네트워크/IP 주소.md",
-    "컴퓨터 공학/인터넷/web/back end/Back-End.md",
-    "컴퓨터 공학/프로그래밍/레이어드 아키텍쳐.md",
-    "컴퓨터 공학/프로그램/IDE/IDE.md",
-    "독서/모던 C++ 입문/문제 풀이",
-    "독서/모던 C++ 입문",
     "프로그래머스/특강/img/입사지원서 준비하기.png",
-    "프로그래머스/특강/img",
-    "컴퓨터 공학/운영체제/리눅스",
-    "프로그래머스/fact & lesson/모의 면접",
-    "컴퓨터 공학/프레임워크/웹 프레임워크/스프링 부트/security",
-    "프로그래머스/fact & lesson",
     "프로그래머스/img/Pasted image 20250717110049.png",
     "프로그래머스/img/Pasted image 20250716110635.png",
     "프로그래머스/img/Pasted image 20250716110426.png"

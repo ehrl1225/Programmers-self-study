@@ -6,3 +6,6 @@
 
 # 구상
 C++의 template를 사용해서 serialize와 deserialize를 하는건 어떨까 생각했다.
+
+동적 할당을 통해 배열을 저장하는 경우는 
+데이터를 
